@@ -12,16 +12,3 @@
     "name": "typicode"
   }
 }
-
-
-{
-  "login": [
-    { "id": 9580101441, "password": "leo7" },
-    { "id": 9580101442, "password": "leo7" },
-    { "id": 9580101443, "password": "leo7" }
-  ],
-  "profile": {
-    "name": "Vishnu Rastogi",
-    
-  }
-}
