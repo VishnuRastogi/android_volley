@@ -5,9 +5,9 @@
     { "id": 3, "title": "Post 3" }
   ],
   "login": [
-    { "id": 9580101441, "password": "leo1" },
-    { "id": 9580101442, "password": "leo2" },
-    { "id": 9580101443, "password": "leo3" }
+    { "id": 9580101441, "password": "leostar" },
+    { "id": 9580101442, "password": "leostar" },
+    { "id": 9580101443, "password": "leostar" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
